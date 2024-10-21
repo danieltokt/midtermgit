@@ -1,4 +1,4 @@
 first commit in master
 first commit in hotfix
 third commit in develop
-fourth commit in feature
+fourth commit in develop
