@@ -2,3 +2,4 @@ first commit in master
 first commit in hotfix
 third commit in develop
 first commit in release
+second commit in release
