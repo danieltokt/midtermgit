@@ -6,3 +6,4 @@ second commit in release
 fourth commit in master
 first commit in featurebranches
 second commit in featurebranches
+third commit in featurebranches
