@@ -3,3 +3,4 @@ first commit in hotfix
 third commit in develop
 fourth commit in develop
 fifth commit in feature
+sixth commit in feature
